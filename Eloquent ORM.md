@@ -1,27 +1,27 @@
 # Eloquent ORM
 
 ##### **\# Introduction**
-##### **\#Basic Usage**
-##### **\#Mass Assignment**
-##### **\#Insert, Update, Delete**
-##### **\#Soft Deleting**
-##### **\#Timestamps**
-##### **\#Query Scopes**
-##### **\#Global Scopes**
-##### **\#Relationships**
-##### **\#Querying Relations**
-##### **\#Eager Loading**
-##### **\#Inserting Related Models**
-##### **\#Touching Parent Timestamps**
-##### **\#Working With Pivot Tables**
-##### **\#Collections**
-##### **\#Accessors & Mutators**
-##### **\#Date Mutators**
-##### **\#Model Events**
-##### **\#Model Observers**
-##### **\#Converting To Arrays / JSON**
+##### **\# Basic Usage**
+##### **\# Mass Assignment**
+##### **\# Insert, Update, Delete**
+##### **\# Soft Deleting**
+##### **\# Timestamps**
+##### **\# Query Scopes**
+##### **\# Global Scopes**
+##### **\# Relationships**
+##### **\# Querying Relations**
+##### **\# Eager Loading**
+##### **\# Inserting Related Models**
+##### **\# Touching Parent Timestamps**
+##### **\# Working With Pivot Tables**
+##### **\# Collections**
+##### **\# Accessors & Mutators**
+##### **\# Date Mutators**
+##### **\# Model Events**
+##### **\# Model Observers**
+##### **\# Converting To Arrays / JSON**
 
-## **\#Introduction**
+## **\# Introduction**
 
 O ORM Eloquent incluido no Laravel fornece uma implementação ActiveRecord bonita e simples para trabalhar com seu banco de dados. Cada tabela do banco de dados tem um "Model" correspondente que é utilizado para interagir com essa tabela.
 
@@ -32,7 +32,7 @@ app/config/database.php.
 ```
 
 
-## **\#Basic Usage**
+## **\# Basic Usage**
 
 To get started, create an Eloquent model. Models typically live in the app/models directory, but you are free to place them anywhere that can be auto-loaded according to your  composer.json file.
 
